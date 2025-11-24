@@ -1,9 +1,17 @@
 body {
 font-family: Arial, sans-serif;
-background-color: #f4f4f4;
-color: #333;
+background-color: gray;
+color: black;
 }
 
+#logopoker {
+    max-width: 100px;
+    height: auto;
+}
+
+#div1{
+    background-color: aliceblue;
+}
 h1 {
 color: #00539f;
 text-align: left;
